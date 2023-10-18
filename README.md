@@ -1,5 +1,6 @@
 # PSO-MATLAB
 Particle Swarm Optimization (PSO)
+
 This is a metaheuristic algorithm for optimizing single objective problems.
 
 ## How to Run
